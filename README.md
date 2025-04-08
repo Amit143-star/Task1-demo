@@ -1,3 +1,3 @@
 # Task1-demo
 Automate Code Deployment Using CI/CD Pipeline (GitHub Actions)
-Author Shrusti Shivalochanamath 
+Author Amit Gonasagi 
